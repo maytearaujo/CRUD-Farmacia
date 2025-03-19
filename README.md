@@ -1,5 +1,5 @@
 
-# RHQueens
+# CRUD Farmácia
     Sistema Farmacêutico Desenvolvido durante o Bootcamp Java Fullstack da Generation Brasil.
     
 
