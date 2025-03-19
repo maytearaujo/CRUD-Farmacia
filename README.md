@@ -1,6 +1,6 @@
 
 # RHQueens
-    Sistema Farmacêutico.
+    Sistema Farmacêutico Desenvolvido durante o Bootcamp Java Fullstack da Generation Brasil.
     
 
 ## Tecnologias Utilizadas:
